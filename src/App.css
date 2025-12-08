@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(255, 204, 0);
+}
+/* Container for the particle system - takes up full viewport */
+#particles-js {
+  width: 100%;
+  height: 100vh;  /* 100% of viewport height */
+}
